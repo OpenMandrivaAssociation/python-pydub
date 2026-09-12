@@ -18,7 +18,6 @@ Recommends:	ffmpeg
 pydub lets you manipulate audio with a simple high-level interface.
 
 %files
-%doc README.md
 %license LICENSE
 %{py_sitedir}/pydub
 %{py_sitedir}/pydub-*.*-info
