@@ -1,6 +1,6 @@
 Name:		python-pydub
 Version:	0.25.1
-Release:	1
+Release:	2
 Summary:	Manipulate audio with a simple high-level interface
 License:	MIT
 Group:		Development/Python
